@@ -1,144 +1,97 @@
 #EXTM3U
 #EXTINF:-1, BTV
-http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
-#EXTINF:-1, Channel I
-http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
+https://sar.pages.dev/btv.m3u8
 #EXTINF:-1, GTV
-http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
+https://sar.pages.dev/gtv.m3u8
 #EXTINF:-1, ETV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1, Bangla Vision
-https://bd.jagobd.com:444/live-orgin/banglav000.stream/chunks.m3u8
+https://sar.pages.dev/etv.m3u8
 #EXTINF:-1, ATN Bangla
-https://bd.jagobd.com:444/live-orgin/atnbd-8-org.stream/chunks.m3u8
+https://sar.pages.dev/atnbangla.m3u8
+#EXTINF:-1, Boishakhi
+https://sar.pages.dev/boisakhi.m3u8
+#EXTINF:-1, Bangla Vision
+https://sar.pages.dev/bangla_vision.m3u8
+#EXTINF:-1, Channel I
+https://sar.pages.dev/channeli.m3u8
 #EXTINF:-1, RTV
-https://bd.jagobd.com:444/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1, Cumilla TV
-http://103.149.142.133/0.m3u8
-#EXTINF:-1, Somoy TV
-http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+https://sar.pages.dev/rtv.m3u8
+#EXTINF:-1, Desh TV
+https://sar.pages.dev/deshtv.m3u8
+#EXTINF:-1, Somoy News
+https://sar.pages.dev/somoy.m3u8
 #EXTINF:-1, Independent News
-http://str24.l9574.com/668.stream/index.m3u8
-#EXTINF:-1, Jago News
-http://bd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
-#EXTINF:-1, Deepto TV
-https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
-#EXTINF:-1, Channel 24
-http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+https://sar.pages.dev/independent.m3u8
 #EXTINF:-1, Jamuna News
-http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+https://sar.pages.dev/jamuna.m3u8
+#EXTINF:-1, Ekhon
+https://sar.pages.dev/ekhon.m3u8
+#EXTINF:-1, SATV
+https://sar.pages.dev/satv.m3u8
+#EXTINF:-1, DBC News
+https://sar.pages.dev/dbcnews.m3u8
+#EXTINF:-1, Channel 24
+https://sar.pages.dev/channel_24.m3u8
 #EXTINF:-1, News 24
-http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
+https://sar.pages.dev/news_24.m3u8
+#EXTINF:-1, Cumilla TV
+https://sar.pages.dev/cumilla.m3u8
+#EXTINF:-1, Jago News
+https://sar.pages.dev/jagonews.m3u8
+#EXTINF:-1, Mohona TV
+https://sar.pages.dev/mohona.m3u8
+#EXTINF:-1, MyTV
+https://sar.pages.dev/mytv.m3u8
 #EXTINF:-1, Asian
-http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
-#EXTINF:-1, Movie Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1, KTV Bangla
-https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
+https://sar.pages.dev/asian.m3u8
+#EXTINF:-1, Ananda TV
+https://sar.pages.dev/ananda.m3u8
 #EXTINF:-1, Star Jalsa
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
-#EXTINF:-1, Star Jalsa HD
-http://95.111.193.211:8106/play/a003/index.m3u8
+https://sar.pages.dev/star_jalsa.m3u8
 #EXTINF:-1, Zee Bangla
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
-#EXTINF:-1, ZeeBangla HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/zeebanglahd-audio_208482_und=208000-video=4237600.m3u8
+https://sar.pages.dev/zee_bangla.m3u8
+#EXTINF:-1, Colors Bangla
+https://sar.pages.dev/colors_bangla.m3u8
+#EXTINF:-1, Enter 10
+https://sar.pages.dev/enter10.m3u8
 #EXTINF:-1, Sony Aath
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-#EXTINF:-1, ZeeBangla Cinema
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
-#EXTINF:-1, T-Sports
-http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
+https://sar.pages.dev/sony_aath.m3u8
+#EXTINF:-1, Sun Bangla
+https://sar.pages.dev/sun_bangla.m3u8
+#EXTINF:-1, Colors Bangla Cinema
+https://sar.pages.dev/colors_bangla_cinema.m3u8
+#EXTINF:-1, T-Sports 1
+https://sar.pages.dev/tsports.m3u8
+#EXTINF:-1, T-Sports 2
+https://sar.pages.dev/tsports2.m3u8
+#EXTINF:-1, T-Sports 3
+https://sar.pages.dev/tsports3.m3u8
+#EXTINF:-1, Star Sports
+https://sar.pages.dev/star_sports.m3u8
+#EXTINF:-1, Sony Six
+https://sar.pages.dev/sony_six.m3u8
 #EXTINF:-1, PTV Sports
-http://175.107.244.52:4457/play/a08g/index.m3u8
-#EXTINF:-1, Star Sports 1
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
-#EXTINF:-1, Star Sports HD
-http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1, Astro Cricket
-http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
-#EXTINF:-1, Eurosports
-http://95.111.193.211:8106/play/a00m/index.m3u8
-#EXTINF:-1, Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1, Nick jr
-https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1, Nick
-http://watchindia.net:8880/live/60427/00546/2182.ts
-#EXTINF:-1, Nick HD+
-https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
+https://sar.pages.dev/ptv_sports.m3u8
 #EXTINF:-1, Nick Bangla
-https://freeiptv25.bdiptv24.repl.co/live/bdix3/app/NickBangla.m3u8
-#EXTINF:-1, Sonic
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1, Sony Yay
-http://watchindia.net:8880/live/60427/00546/2104.ts
-#EXTINF:-1, Sangeet Bangla
-http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
-#EXTINF:-1, Sony SAB
-http://watchindia.net:8880/live/60427/00546/2323.ts
-#EXTINF:-1, ZEE TV
-http://watchindia.net:8880/live/60427/00546/1970.ts
-#EXTINF:-1, Star Plus
-http://144.217.70.181:9587/hin2/STARPLUSUK/index.m3u8?token=test&v=697229347
+https://sar.pages.dev/nick_bangla.m3u8
+#EXTINF:-1, Sonic Hindi
+https://sar.pages.dev/sonic.m3u8
 #EXTINF:-1, Sony Max
-http://170.254.18.107/SONYMAX/index.m3u8
+https://sar.pages.dev/sony_max.m3u8
 #EXTINF:-1, Zee Cinema
-http://170.254.18.107/ZEECINEMA/index.m3u8
-#EXTINF:-1, Sony
-http://95.111.193.211:8106/play/a00l/index.m3u8
-#EXTINF:-1, & TV
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
-#EXTINF:-1, & Pictures
-https://dai.google.com/ssai/event/GvxJH26zQU2K26dScVna1A/master.m3u8
-#EXTINF:-1, Wild Earth
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1, Discovery Hn
-https://maxspidy-1.livespidymax.repl.co/discovery/Discovery_Channel.m3u8
-#EXTINF:-1, Discovery Bn
-https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1, Animal Planet
-http://95.111.193.211:8106/play/a00b/index.m3u8
-#EXTINF:-1, National Geographic
-http://95.111.193.211:8106/play/a00p/index.m3u8
-#EXTINF:-1, NatGeo Wild
-http://95.111.193.211:8106/play/a00y/index.m3u8
-#EXTINF:-1, Colors HD
-http://95.111.193.211:8106/play/a00j/index.m3u8
-#EXTINF:-1, Colors Aapka
-http://170.254.18.107/COLORS/index.m3u8
+https://sar.pages.dev/zee_cinema.m3u8
 #EXTINF:-1, Colors Cineplex
-http://watchindia.net:8880/live/60427/00546/803.ts
-#EXTINF:-1, Colors Rishtey
-http://watchindia.net:8880/live/60427/00546/830.ts
+https://sar.pages.dev/colors_cineplex.m3u8
+#EXTINF:-1, Zee TV
+https://sar.pages.dev/zee_tv.m3u8
+#EXTINF:-1, Discovery
+https://sar.pages.dev/discovery.m3u8
+#EXTINF:-1, National Geographic
+https://sar.pages.dev/nat_geo.m3u8
+#EXTINF:-1, Animal Planet
+https://sar.pages.dev/animal_planet.m3u8
+#EXTINF:-1, Nat Geo Wild
+https://sar.pages.dev/nat_geo_wild.m3u8
 #EXTINF:-1, BBC
-http://103.186.77.21:8000/play/a03q/index.m3u8
-#EXTINF:-1, Al-Jazeera
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1, NDTV
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1, ABP News
-https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
-#EXTINF:-1, Zee 24 Ghanta
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
-#EXTINF:-1, ABP Ananda
-https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
-#EXTINF:-1, Deshi Tv
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1, Channel S
-https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
-#EXTINF:-1, Khusbo Bangla
-http://idvd.multitvsolution.com/idvo/khushboo_540p.m3u8
-#EXTINF:-1, MTV
-http://watchindia.net:8880/live/60427/00546/825.ts
-#EXTINF:-1, MTV Beats
-http://watchindia.net:8880/live/60427/00546/786.ts
+https://sar.pages.dev/bbc.m3u8
 #EXTINF:-1, 9XM
-http://watchindia.net:8880/live/60427/00546/827.ts
-#EXTINF:-1, 9XM JALWA
-http://longstream-03.ajaah.com/PlayBoxTV/9XJalwa/playlist.m3u8
-#EXTINF:-1, AB Mastii
-#EXTINF:-1, Zoom
-http://watchindia.net:8880/live/60427/00546/842.ts
-#EXTINF:-1, Zing
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
+https://sar.pages.dev/9xm.m3u8
