@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1, Jago FM (94.4)
+http://128.199.184.111:12496/;stream/1
+#EXTINF:-1, Dhaka FM (90.4)
+https://stream-161.zeno.fm/u9mphfk604zuv
+#EXTINF:-1, Radio Capital (94.8)
+http://str.radiocapital.fm:8000/stream
+#EXTINF:-1, Radio Bhumi (92.8)
+https://stream-157.zeno.fm/ybf1umk1k18uv
+#EXTINF:-1, Radio Furti (88.0)
+https://stream-159.zeno.fm/f0bfdk2w34zuv
+#EXTINF:-1, Radio GoonGoon
+https://audio.streamcast.xyz/listen/radiogoongoon/radio.mp3
+#EXTINF:-1, Radio Sangbad
+https://stream-151.zeno.fm/mnhbu6q6ng0uv
+#EXTINF:-1, Radio Shadhin (92.4)
+https://stream-155.zeno.fm/eabgu655puquv
+#EXTINF:-1, Today (89.6)
+https://stream-147.zeno.fm/8wv4d8g4344tv
+#EXTINF:-1, Radio Saraha
+https://stream-150.zeno.fm/5hx71hbuqhruv
+#EXTINF:-1, Traffic FM (88.8.)
+http://as3.digitalsynapsebd.com:8263/;stream.mp3
+#EXTINF:-1, Islami Muzakara
+https://stream-150.zeno.fm/ghcsb5a7ma0uv
+#EXTINF:-1, Bangladesh Betar
+http://as3.digitalsynapsebd.com:8263/;stream.mp3
+#EXTINF:-1, Unknown
+http://as3.digitalsynapsebd.com:8582/;stream.mp3
