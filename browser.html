@@ -20,9 +20,9 @@
     }
     button{
       height: 50px;
-      width: 30vw;
+      width: 35vw;
       left: 35vw;
-      top: 35vh;
+      top: 30vh;
       position: fixed;
       background-color: #ccc;
       border: none;
@@ -39,9 +39,14 @@
       if(url==0){}
       else{
         btnid.onclick=undefined;
-        btnid.innerHTML=`<a href="${url}">Continue</a>`
+        btnid.innerHTML=`<a href="${url}" onclick="goback()">Continue</a>`
       }
     } 
+    function goback(){
+      var btnid = document.getElementById('btn');
+      btn.onclick="getlink()"
+      btn.innerHTML =`Go!`
+    }
   </script>
 </head>
 
