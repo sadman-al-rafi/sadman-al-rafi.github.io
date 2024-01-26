@@ -5,54 +5,18 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Browser</title>
-  <style>
-    input{
-      height: 40px;
-      width: 80vw;
-      left: 10vw;
-      top: 20vh;
-      position: fixed;
-      border: 2px solid deepskyblue;
-      outline: none;
-      border-radius: 3px;
-      font-size: 20px;
-      padding-left: 10px;
-    }
-    button{
-      height: 50px;
-      width: 35vw;
-      left: 35vw;
-      top: 30vh;
-      position: fixed;
-      background-color: #ccc;
-      border: none;
-      font-size: 25px;
-    }
-    a{
-      text-decoration: none;
-    }
-  </style>
-  <script>
-    function getlink(){
-      var btnid = document.getElementById('btn');
-      var url = document.getElementById('url').value;
-      if(url==0){}
-      else{
-        btnid.onclick=undefined;
-        btnid.innerHTML=`<a href="${url}" onclick="goback()">Continue</a>`
-      }
-    } 
-    function goback(){
-      var btnid = document.getElementById('btn');
-      btn.onclick="getlink()"
-      btn.innerHTML =`Go!`
-    }
-  </script>
 </head>
+<script>
+  function goin(){
+    var index = document.createElement('a');
+    index.href = './browser2.html';
+    document.body.appendChild(index);
+    index.click();
+    document.body.removeChild(index);
+  }
+</script>
+<body onload="goin()">
 
-<body>
-<input type="text" id="url" placeholder="Enter URL...">
-<button onclick="getlink()" id="btn">Go!</button>
 </body>
 
 </html>
