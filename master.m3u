@@ -1,0 +1,327 @@
+#EXTINF:0 tvg-id="01" tvg-name="BTV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png" group-title="Entertainment",01. BTV HD
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/1akiRgcJMkR72iEGfLnEwA/1706271645/live-btv-hd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="BTV World" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/da2833ba-8861-4fb7-a01c-ab5945004610_180x180_e70b9dea-eca2-406e-a8ca-c7620b472095.png" group-title="Entertainment",02. BTV World
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/lD-FjAxCUclf1hcA4GbB3g/1706271747/live-btv-world-tv.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="BTV Chattogram" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3726c298-6651-4139-a505-97fe9ee96430_180x180_47fc05ff-db30-4653-b445-57156643f9ce.png" group-title="Entertainment",03. BTV Chattogram
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/1hQclQ6_--ibOKV1f7tG2Q/1706271806/nexde-btv-chattogram.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Sangsad TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed65f2c1-604f-4858-acd5-066fbd00b8ce_180x180_3cbdd15a-53f2-463c-a082-d1e9b1ee74aa.png" group-title="Entertainment",04. Sangsad TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/60TuOPV7wvUtnm3Iwunldg/1706271894/live-sangsad-bangladesh-tv.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Gazi TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2617e1b9-31fa-47ab-a3d7-9880e757a93c_180x180_gazi_tv.png" group-title="Entertainment",05. Gazi TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=19
+
+#EXTINF:0 tvg-id="01" tvg-name="Channel I" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e27d57d3-f17e-4e40-9cb4-7d5f1d577bda_180x180_0246741d-c4e5-4cad-967c-3ddbb5696260.png" group-title="Entertainment",06. Channel I
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/BMh8Pe_n-pJQ8NHoEpjrbA/1706271993/channel_i.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Bangla Vision" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ae1abdc0-299e-4e38-a379-03cf02755414_180x180_f8b871aa-e538-4f02-a877-e30c966dbc30.png" group-title="Entertainment",07. Bangla Vision
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/GcqNyhcKCuLDt3EBuI4HyQ/1706271985/live-banglavision-tv-hd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="NTV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7624c47-6598-4b68-9833-7102579ab0e0_180x180_a9967873-d8e5-4ce9-965c-a353761dc150.png" group-title="Entertainment",08. NTV
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/u8oQMYC70MflFnRNfC_AMw/1706272111/live-n-tv.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="RTV" tvg-logo="https://cdn.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/76b4fc9d-cdcb-4693-8269-1350cdad57ae/d9023977-e8ed-401a-990c-7b08256097cc.png?width=300" group-title="Entertainment",09. RTV
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/9KYLf-K0QMLwQopWkn2-nA/1706272160/live-r-tv-hd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Boishakhi" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e9c06234-edca-411b-bcf6-eace5c3b118a_180x180_57f3b595-85c1-4a51-a209-b26f3d492ee9.png" group-title="Entertainment",10. Boishakhi
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/z9b-_qnAKBXTAc1181SH9w/1706272203/live-boishakhi-tv.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Ekushey TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9e0dd8a-9f03-4db5-821b-8788851ae0f2_180x180_057b61f7-0964-4dc0-95fd-741551613a6f.png" group-title="Entertainment",11. Ekushey TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/YjA99F4Rj5hFTFyoVUhgsQ/1706272255/live-ekushey-tv.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Asian TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png" group-title="Entertainment",12. Asian TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/vMkYBRZQZzOgUKh5mAyT1w/1706272366/live-asian-tv-hd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Bijoy TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cedb767c-a1df-4c51-b159-684bc77f03aa_180x180_fbdee68d-a9aa-4cd7-9302-7f30fca5158d.png" group-title="Entertainment",13. Bijoy TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/uAIQkDygePx4iqYJv9GCGQ/1706272422/live-bijoy-tv.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Desh TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7d1b157d-c68d-4e28-99b3-4e73ce0a6390_180x180_ddc72b39-a2e7-454e-b853-7eb9cd8a6729.png" group-title="Entertainment",14. Desh TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=12
+
+#EXTINF:0 tvg-id="01" tvg-name="Bangla TV" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/6f9ba5ba-bdcd-4280-9499-79888146d41f/7dda5871-5429-40f4-b8fa-840efb1936cc.png?width=300" group-title="Entertainment",15. Bangla TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/E7e7lVBuzLEsfElPZNcDfA/1706274470/live-bangla-tv.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Mohona TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/358c5626-ce3c-4788-ad82-be5c77596b88_180x180_47579c04-9261-4973-b128-310e87592def.png" group-title="Entertainment",16. Mohona TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/NO0yzMEU5vh5CnfPC7JDIA/1706274590/live-mohona-tv.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Somoy News" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2b7e4021-ff6b-4fb3-8a6e-36ff4388086d_180x180_8e4e88aa-10c0-4c91-8465-9c2ddad8b6e8.png" group-title="News",17. Somoy News
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/fvxcfdcMo6zrDCXhI4zm0w/1706274716/live-somoy-news-tv.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Independent News" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/59bb2200-2c12-4ae9-9989-bd520a66013d/7734ec20-8f93-4fe7-9dbd-950ddd73067f.png?width=300" group-title="News",18. Independent News
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/Zk00boWyoyS7mHMrOoB6zg/1706274777/live-independent-tv.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Ekhon TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/bf319d98-d1a1-4df4-8f42-ee33b342c0d9_180x180_Ekhon-tv.jpg" group-title="News",19. Ekhon TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/0FsV76UXRn2d-QxbG9sDoQ/1706275264/live-ekkhon-tv.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Ananda TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/031f5666-bb13-46a0-abed-78b9122d5e76_180x180_bf19e14b-eea7-4d4b-a0b2-a3ba76d2944c.png" group-title="Entertainment",20. Ananda TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/ZN_3Ln-E3t1vAl7QZ46qKA/1706275397/live-ananda-tv.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Ekattor TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dc95386d-f418-4c84-bd9f-7d1442fba3f2_180x180_f4cf8821-b1d1-44c5-b35f-c95d1e054aac.png" group-title="News",21. Ekattor TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/sUlUbOLW_8e4QGdLtGSLcg/1706275467/live-ekattor-tv-hd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Channel 24" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1a6ad6ed-400c-45a2-91e0-c98e36546b6b_180x180_29254c7a-99b4-4c0a-b861-3cbebaadfcfc.png" group-title="News",22. Channel 24
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/rjEE9DWK2GBu79sbbesAHg/1706275549/live-channel-24-tv.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="News 24" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f31caca9-3389-4331-a693-ac83c42b4a35_180x180_51796aab-e2a7-4290-b7b3-f0c3870de87a.png" group-title="News",23. News 24
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/7FOIQpdZbVyggf_e4uwzlA/1706275662/live-news-24-hd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="DBC News" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f71d343e-e574-4599-bed6-f622c2a6b741_180x180_0fb5d763-281f-4ed3-8c05-62aa33dfd0c2.png" group-title="News",24. BDC News
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/m4Iqhky5PMh7VjUyodEbbg/1706275927/live-dbc-news-hd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="SATV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/84a0fb8c-85cf-4d12-8504-8f9050437def_180x180_dbfdc900-49fd-4129-9575-ad0f08105fd4.png" group-title="Entertainment",25. SATV
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/OEJZt4RsGp0NQudtC2UsGQ/1706276034/live-sa-tv-hd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Jamuna TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f9214b86-4bb5-47e9-9488-adb2bd14bf27_180x180_8b1db7bb-4597-4257-8846-567df3961cc2.png" group-title="News",26. Jamuna TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/lAcM_Lv-7yS3QmcLrfmkPQ/1706276135/live-jamuna-tv.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Gaan Bangla" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7927c5b9-8dfd-4cbf-b9d6-bbd3e90a4eb1_180x180_3c294836-ce5c-46e2-b2e1-c9b4b9783997.png" group-title="Music",27. Gaan Bangla
+#EXTVLCOPT:http-user-agent=iPhone
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=22
+
+#EXTINF:0 tvg-id="01" tvg-name="Global TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ef7244ea-1f07-41bb-82e8-d81a2d12ac81_180x180_global-tv.jpg" group-title="Entertainment",28. Global TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/JPOEh4M1cDT1n8VCDH8yPg/1706285521/live-global-tv.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="My TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a259cc0d-630a-4ed1-b6d6-1d4006ed4815_180x180_49e7eff6-56c8-4b4b-8181-e2c14e4426c4.png" group-title="Entertainment",29. My TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/OZw70Uzuw4DhGyrhldpHcQ/1706285630/live-my-tv-hd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Green TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/48e398dd-50d4-40b0-8e26-4a5170faf8c6_180x180_greentv.png" group-title="Entertainment",30. Green TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Duronto TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/155cef49-2209-474b-b882-2618ab44a109_180x180_duronto.png" group-title="Kids",32. Duronto TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=36
+
+#EXTINF:0 tvg-id="01" tvg-name="Deepto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A7%8D%E0%A6%A4_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B_%E0%A7%A8.jpg" group-title="Entertainment",32. Deepto TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Nexus TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0f3e0290-14e1-44ae-9cec-fcd95f23aa41_180x180_ba9a1b16-535c-4c1d-9ebf-2c94df27d585.png" group-title="Entertainment",33. Nexus TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/BHg-oQoepNN9P8sMUD-VmA/1706285446/live-nexus-television-hd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Saudi Sunnah" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/cf72bb91-2aab-4682-b297-62951fd5870a/6c1e5c54-92c0-45d8-b609-31c953f00e0d.png?width=300" group-title="Islamic",34. Saudi Sunnah
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/PblJ-MG6YkLLQB3pnqDUzA/1706291092/nexde-saudi-sunnah.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Saudi Quraan" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/96ac36ef-72c2-4b4c-971f-bff70b261bc6/bab0e03a-46ef-48f3-bac1-6ccf894f9538.png?width=300" group-title="Islamic",35. Saudi Quraan
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/CNpL4ggMeWSkQqGece-lyA/1706291168/live-sudi-quran.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Entertainment",36. Star Jalsha
+#EXTVLCOPT:http-user-agent=iPhone
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Zee Bangla" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/88b130c8-0256-4247-97fe-11ec72132f15/e83a109a-b050-4ff9-917d-661be1c3d82b.png?width=300" group-title="Entertainment",37. Zee Bangla
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/RYUorWDIorcX8Jdy-oeiBQ/1706291666/zee_bangla.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Sony Aath" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/a15c6418-e6b3-424d-a401-071c2b7a7752/564026c6-1ffd-45b8-8614-c03dc46eabeb.png?width=300" group-title="Entertainment",38. Sony Aath
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/uwhJZcqJoXx0zkC8OnfgSQ/1706291725/live-sony-aath-sd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Colors Bangla" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/2d207502-d828-4c9e-a53d-5091b91470e0/561a542e-8ea9-4b34-ac4c-18b3dc19f2f3.png?width=300" group-title="Entertainment",39. Colors Bangla
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/cgUTzcl6plXOo1DJ-89Rhw/1706291805/live3-colors-bangla.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Colors Bangla Cinema" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/30ebec11-5004-4bf7-9c5c-d604edc23dc5/1892d401-f522-4ef8-959e-7e3a3d2f1fc7.png?width=300" group-title="Entertainment",40. Colors Bangla Cinema
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/9W-7LrFLsQgK8qqSgVI7fw/1706291874/live3-colors-bangla-cinema.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Zee Bangla Cinema" tvg-logo="https://banner2.cleanpng.com/20190112/iiu/kisspng-zee-bangla-cinema-logo-zee-cinema-bengali-language-5c3a11e38637c1.7959353315473095395498.jpg" group-title="Entertainment",41. Zee Bangla Cinema
+#EXTVLCOPT:http-user-agent=iPhone
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Sony Sports 1" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/f329b795-ec26-4721-85b6-8c569a9cbf2d/ea6c0a48-2348-456e-8ab2-fd540e6ee5a6.png?width=300" group-title="Sports",42. Sony Sports 1
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/zaz8XD4Z7sSXJgLP8FeD9w/1706296125/live-sony-sports-ten-1-hd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Sony Sports 2" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e2174a76-fc11-4609-bb83-aa94aa117a27/c8ea1bab-49ab-4702-be5e-7058bbf6a591.png?width=300" group-title="Sports",43. Sony Sports 2
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/ZMv4f_d45ZC2Mg4lFWLTYQ/1706296197/live-sony-sports-ten-2-hd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Sony Sports 3" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/84ae1e76-ec5e-44da-bd8f-b1c9d9663b26/d33a8bd6-14b0-4bb4-84ac-6fb3ec426611.png?width=300" group-title="Sports",44. Sony Sports 3
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/gXf6C1LzV5eTOBwN0MlRxQ/1706296256/live-sony-sports-ten-3-hd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Sony Sports 5" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5f317e1-3503-40fa-ad37-8ad341109a85/953f7afc-76c7-41a2-b775-644121768d97.png?width=300" group-title="Sports",45. Sony Sports 5
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/8u7bLc_h8fq80nmdelAfxg/1706296322/live-sony-sports-ten-5-hd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Willow HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFZQx8KmFUf1MAuGgDijAj5pPoe2S5ZohO8PfjqO3yeg&s" group-title="Sports",46. Willow HD
+#EXTVLCOPT:http-user-agent=iPhone
+https://hls.streambtw.com/live/stream_e1.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Star Sports 1" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg" group-title="Sports",47. Star Sports
+#EXTVLCOPT:http-user-agent=iPhone
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="PTV Sports" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/60deaf07-96f9-4d8c-8aee-97975d25e73b_180x180_P-tv.jpg" group-title="Sports",48. PTV Sports
+#EXTVLCOPT:http-user-agent=iPhone
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=47
+
+#EXTINF:0 tvg-id="01" tvg-name="T-Sports" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5613629e-48b2-4bf1-918e-f0adc3abc394_180x180_tsports.png" group-title="Sports",49. T-Sports
+#EXTVLCOPT:http-user-agent=iPhone
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=28
+
+#EXTINF:0 tvg-id="01" tvg-name="Nick Junior" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/565f8459-678d-4495-9aad-364bdc16dc41/01ed5f96-1802-4e11-9335-81eb30f72740.png?width=300" group-title="Kids",50. Nick Junior
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/iyvtION2p5UETFGPiGl5pA/1706327645/live3-nick_jr.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Sony Yay" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/d20356ee-1ca5-4792-94ec-bb900504437b/bf8b3f46-c810-420f-a90d-9f6834c36b3c.png?width=300" group-title="Kids",51. Sony Yay
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/0ZNbW46Loezj1b8RBdh7Ng/1706329146/live-sony-yay-sd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Nickelodeon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtjoLFtpxCse-hv1I3hxbkuNBd3jA2LhO1gg&usqp=CAU" group-title="Kids",52. Nickelodeon
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/ssxq28rR7lHqBHKyYFCWPw/1706327726/live3-nick.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Nickelodeon Sonic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqpKB9YGCK9XDzvrtWBkCbZD9DYQPaFllvQ&usqp=CAU" group-title="Kids",53. Nickelodeon Sonic
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/0yKlrWIIug1NCRVzNtDq8A/1706328118/live3-sonic.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Sangeet Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyzZBJUCX4KZFd8UDihAPyA79QRxrQ2j0NbQ&usqp=CAU" group-title="Music",54. Sangeet Bangla
+#EXTVLCOPT:http-user-agent=iPhone
+http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="& TV" tvg-logo="https://servicesmedia.in/wp-content/uploads/2023/01/TV.webp" group-title="Entertainment",55. & TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Zee TV" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e76ee8d5-571a-4bd1-b72b-e09a3e986160/fae71bed-37a1-4b94-8382-d103f429b6b7.png?width=300" group-title="Entertainment",56. Zee TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/tv7sbSVbudiH6SoCaE4CCQ/1706328980/zee_tv_hd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Sony Sab" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/825a35e8-a1c7-4abf-84cf-d9b7e21e5657/0369f492-c12f-4dab-a2a9-a090943521dc.png?width=300" group-title="Entertainment",57. Sony Sab
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/cLQNFJIAobgQV99UDeTBWQ/1706329062/live-sony-sab-hd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Sony Max" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/bc31f211-29d9-43be-88b1-0176cc608c06/721af74c-cda6-4144-942c-5b84f573ade8.png?width=300" group-title="Entertainment",58. Sony Max
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/RS6nw1wfQc2BNby52NrZ_w/1706329216/live-sony-setmax-hd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Zee Cinema" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/4ef30b76-32e8-48ab-81fc-5c7d641e5209/e7b4ef73-f718-4efe-931c-58f7f5cc87a3.png?width=300" group-title="Entertainment",59. Zee Cinema
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/TzNzbAd2HEFfRKc9WG1WLw/1706329268/zee_cinema_hd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Sony" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3b5ee0f7-d26a-45b5-94a1-24b7ec1421f0/74b936f0-12b0-487f-bccf-71f71031ec66.png?width=300" group-title="Entertainment",60. Sony
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/zJigWGGABUt_gGfhtUNKzw/1706329317/live-sony-entertainment-hd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="& Pictures" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/andpictures-hd.jpg" group-title="Entertainment",61. & Pictures
+#EXTVLCOPT:http-user-agent=iPhone
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Animal Planet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQ4M5QE7Hnr3tEod6beWPTLuuiN-XnTmCOFcr7evQAg&s" group-title="Documentary",62. Animal Planet
+#EXTVLCOPT:http-user-agent=iPhone
+https://sar.pages.dev/animal_planet_multi.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="BBC Earth" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/2fe644f3-bf5f-4b81-86f0-ee989252c9d9/16b21868-911e-438b-b2c4-de04438b18d3.png?width=300" group-title="Documentary",63. BBC Earth
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/1ZuLbbVyTNBzeGKIf0QEAA/1706521377/live-sony-bbc-earth-hd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRog1m64zE4PirvWthwsOtopj6xJxIWGhjWVfykw74Nzg&s" group-title="Documentary",64. Discovery Bangla
+#EXTVLCOPT:http-user-agent=iPhone
+https://sar.pages.dev/discovery_bangla_auto.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Colors" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/144db557-f209-49fe-ba87-92f554ab325c/3a09ab22-3aa4-44fa-a950-b2d9390163da.png?width=300" group-title="Entertainment",65. Colors
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/bL94ZDhSnme9F1fampfeqg/1706330203/live3-colors.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Colors Rishtey" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/17d8fd6b-67ce-4c6a-8b5b-7cd7b3ea68cc/7885c62f-ae2a-48dd-8dfb-011f4cedb6ed.png?width=300" group-title="Entertainment",66. Colors Rishtey
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/gaLuhNa6ePBguCJ2aYxYLA/1706519635/live3-colors_rishtey.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Colors Infinity" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/20921d50-bc3d-4d99-9357-78320a582e40/9085e9bd-b79a-47d7-9d24-7fb85a741968.png?width=300" group-title="Entertainment",67. Colors Infinity
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/coxSW351gkbt976b0EUkJw/1706519700/live3-colors_infinity.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Zee Bollywood" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/8fa76d62-7feb-42ee-b5b9-07dda654a062/f0412fb5-a3fb-4e06-a3f8-b44851521f76.png?width=300" group-title="Entertainment",68. Zee Bollywood
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/R-P0Ee8_NJazb1vIR9Z7lw/1706519757/zee_bollywood.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Sony Wah" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/2a00b18f-23cb-4f53-b7a8-c2f31892fb7f/cac80416-4978-472b-bde3-90834289a175.png?width=300" group-title="Entertainment",69. Sony Wah
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/_Li_0_e_hLozZ-qjhSPa1w/1706519823/live-sony-wah-sd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="History" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/c34fd2d6-9dce-4fed-b973-08c039bf018f/c1763c44-93da-40f8-88fa-e4608772066b.png?width=300" group-title="Entertainment",70. History Channel
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/jAXvcYVlFaNL0U6Lpk2TCw/1706519913/live3-history-18.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Aljazeera" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/dab2d561-ef54-40dd-9650-43dee09b92d0/29f2064c-f8a5-41ac-8a82-b5d7135b99b1.png?width=300" group-title="News",71. Aljazeera
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/7ej2cLdplxeECEpwEMDgDg/1706519974/live-aljazeera-tv.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="DW" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3b1067a5-7c9d-442f-afa7-5f8eecda9258/527b6507-7a6f-494f-843b-e0b5fb5248b4.png?width=300" group-title="News",72. DW
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/-W79O5qX8TanXAbMPzytMg/1706521101/live-dw-deutsche-welle-tv.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="France 24" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/d6dce9eb-292d-4dff-a722-794db863c1a3/7f23f272-88f3-4878-a5be-9259db1fd34b.png?width=300" group-title="News",73. France 24
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/z477dHZZp2SyfrfsvlbdkA/1706521299/nexde-france24.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Ifilm" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/f064e840-2d83-4ecd-a26f-0ccdaa2b9859/b1852170-48e2-430d-8ea7-ee5ffee33486.png?width=300" group-title="Entertainment",74. Ifilm
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/3UsxBA_cT3Sivky_p1PhcQ/1706521246/live-i-film-english.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Sony Pix" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e0860fc1-7dc4-42dc-acbd-51ec4c3a97f2/26f092d0-b009-46b4-ad34-f7b6d9c20a13.png?width=300" group-title="Entertainment",75. Sony Pix
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/r_YLhlKwcZ6IfFbThkriQg/1706521476/live-sony-pix-hd.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="MTV" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/5b042b51-cf7a-4afb-8fa1-7c040b517cc9/8b327084-8b17-40fb-b0c2-84ab8ace4eee.png?width=300" group-title="Music",76. MTV
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/UBJ80JwyCHPD3q-ZI3re1w/1706521578/live3-mtv.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="MTV Beats" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/6dbec8ae-f3c1-4f58-a9e7-1bda442b1de5/487bdf23-fe1a-4410-aa93-eda6dfd34dda.jpg?width=300" group-title="Music",77. MTV Beats
+#EXTVLCOPT:http-user-agent=iPhone
+https://edge4.bioscopelive.com/hls/anonymous/wMXCtKtmy_0XhcdXgtlgvw/1706521648/live3-mtv_beats.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="9xm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9scc-YMzlkpBG0inmRt6fcFAICZxC0vlSz80JuKI_xni4VY_P5cuQLf8j&s=10" group-title="Music",78. 9xm
+#EXTVLCOPT:http-user-agent=iPhone
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="9xm Jalwa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGGvy82n3UQAVPEyA32-qvVdhoHQ_C6jNtd0GaoD0wg2tr1SfwA1s2QHNP&s=10" group-title="Music",79. 9xm Jalwa
+#EXTVLCOPT:http-user-agent=iPhone
+http://longstream-03.ajaah.com/PlayBoxTV/9XJalwa/playlist.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="AB Masti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT_1iEBnoRYS7z8QcwFk2GCfT-a_TYZMEdn9P-c-djAg&s" group-title="Music",80. AB Masti
+#EXTVLCOPT:http-user-agent=iPhone
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/1b2defd8-86b5-4df9-8e93-629d7d10a9b1/0.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="Zing" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc8FWcj_JTqx8dpWKYSmI88S7xQf2gNZcAtdEh2D2w3w&s" group-title="Entertainment",81. Zing
+#EXTVLCOPT:http-user-agent=iPhone
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
+
+#EXTINF:0 tvg-id="01" tvg-name="MR Bean" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHIrJI1BvjHAip9zIsKFzUqGqVN8GkaPXYSg&usqp=CAU" group-title="Kids",82. MR Bean
+#EXTVLCOPT:http-user-agent=iPhone
+http://51.159.104.29:8080/mrbean/index.m3u8
