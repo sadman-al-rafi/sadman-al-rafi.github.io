@@ -16,7 +16,7 @@ https://edge4.bioscopelive.com/hls/anonymous/60TuOPV7wvUtnm3Iwunldg/1706271894/l
 
 #EXTINF:0 tvg-id="01" tvg-name="Gazi TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2617e1b9-31fa-47ab-a3d7-9880e757a93c_180x180_gazi_tv.png" group-title="Entertainment",05. Gazi TV
 #EXTVLCOPT:http-user-agent=iPhone
-https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=19
+http://103.163.246.118:8088/GTV-HD/video.m3u8
 
 #EXTINF:0 tvg-id="01" tvg-name="Channel I" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e27d57d3-f17e-4e40-9cb4-7d5f1d577bda_180x180_0246741d-c4e5-4cad-967c-3ddbb5696260.png" group-title="Entertainment",06. Channel I
 #EXTVLCOPT:http-user-agent=iPhone
@@ -50,9 +50,9 @@ https://edge4.bioscopelive.com/hls/anonymous/vMkYBRZQZzOgUKh5mAyT1w/1706272366/l
 #EXTVLCOPT:http-user-agent=iPhone
 https://edge4.bioscopelive.com/hls/anonymous/uAIQkDygePx4iqYJv9GCGQ/1706272422/live-bijoy-tv.m3u8
 
-#EXTINF:0 tvg-id="01" tvg-name="Desh TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7d1b157d-c68d-4e28-99b3-4e73ce0a6390_180x180_ddc72b39-a2e7-454e-b853-7eb9cd8a6729.png" group-title="Entertainment",14. Desh TV
+#EXTINF:0 tvg-id="01" tvg-name="ATN Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8imYdatr-15WLCHHwth0Od9ewk8YyTBVkFw&usqp=CAU" group-title="Entertainment",14. ATN Bangla
 #EXTVLCOPT:http-user-agent=iPhone
-https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=12
+http://103.163.246.118:8088/ATN-BANGLA/video.m3u8
 
 #EXTINF:0 tvg-id="01" tvg-name="Bangla TV" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/6f9ba5ba-bdcd-4280-9499-79888146d41f/7dda5871-5429-40f4-b8fa-840efb1936cc.png?width=300" group-title="Entertainment",15. Bangla TV
 #EXTVLCOPT:http-user-agent=iPhone
@@ -104,7 +104,7 @@ https://edge4.bioscopelive.com/hls/anonymous/lAcM_Lv-7yS3QmcLrfmkPQ/1706276135/l
 
 #EXTINF:0 tvg-id="01" tvg-name="Gaan Bangla" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7927c5b9-8dfd-4cbf-b9d6-bbd3e90a4eb1_180x180_3c294836-ce5c-46e2-b2e1-c9b4b9783997.png" group-title="Music",27. Gaan Bangla
 #EXTVLCOPT:http-user-agent=iPhone
-https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=22
+http://103.163.246.118:8088/GAN-Bangla/video.m3u8
 
 #EXTINF:0 tvg-id="01" tvg-name="Global TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ef7244ea-1f07-41bb-82e8-d81a2d12ac81_180x180_global-tv.jpg" group-title="Entertainment",28. Global TV
 #EXTVLCOPT:http-user-agent=iPhone
@@ -118,9 +118,9 @@ https://edge4.bioscopelive.com/hls/anonymous/OZw70Uzuw4DhGyrhldpHcQ/1706285630/l
 #EXTVLCOPT:http-user-agent=iPhone
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 
-#EXTINF:0 tvg-id="01" tvg-name="Duronto TV" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/155cef49-2209-474b-b882-2618ab44a109_180x180_duronto.png" group-title="Kids",31. Duronto TV
+#EXTINF:0 tvg-id="01" tvg-name="Jalsha Movies" tvg-logo="http://tv.gbnwifi.com/channel-logo/dvctv.png" group-title="Kids",31. DBC News
 #EXTVLCOPT:http-user-agent=iPhone
-https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=36
+http://103.163.246.118:8088/DBC-TV/video.m3u8
 
 #EXTINF:0 tvg-id="01" tvg-name="Deepto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A7%8D%E0%A6%A4_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B_%E0%A7%A8.jpg" group-title="Entertainment",32. Deepto TV
 #EXTVLCOPT:http-user-agent=iPhone
@@ -130,9 +130,9 @@ https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTVLCOPT:http-user-agent=iPhone
 https://edge4.bioscopelive.com/hls/anonymous/BHg-oQoepNN9P8sMUD-VmA/1706285446/live-nexus-television-hd.m3u8
 
-#EXTINF:0 tvg-id="01" tvg-name="Saudi Sunnah" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/cf72bb91-2aab-4682-b297-62951fd5870a/6c1e5c54-92c0-45d8-b609-31c953f00e0d.png?width=300" group-title="Islamic",34. Saudi Sunnah
+#EXTINF:0 tvg-id="01" tvg-name="Saudi Sunnah" tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="Islamic",34. Madani Channel
 #EXTVLCOPT:http-user-agent=iPhone
-https://edge4.bioscopelive.com/hls/anonymous/PblJ-MG6YkLLQB3pnqDUzA/1706291092/nexde-saudi-sunnah.m3u8
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 
 #EXTINF:0 tvg-id="01" tvg-name="Saudi Quraan" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/96ac36ef-72c2-4b4c-971f-bff70b261bc6/bab0e03a-46ef-48f3-bac1-6ccf894f9538.png?width=300" group-title="Islamic",35. Saudi Quraan
 #EXTVLCOPT:http-user-agent=iPhone
@@ -140,11 +140,11 @@ https://edge4.bioscopelive.com/hls/anonymous/CNpL4ggMeWSkQqGece-lyA/1706291168/l
 
 #EXTINF:0 tvg-id="01" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Entertainment",36. Star Jalsha
 #EXTVLCOPT:http-user-agent=iPhone
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
+http://103.163.246.118:8088/STAR-JALSHA-BANGLA/video.m3u8
 
 #EXTINF:0 tvg-id="01" tvg-name="Zee Bangla" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/88b130c8-0256-4247-97fe-11ec72132f15/e83a109a-b050-4ff9-917d-661be1c3d82b.png?width=300" group-title="Entertainment",37. Zee Bangla
 #EXTVLCOPT:http-user-agent=iPhone
-https://edge4.bioscopelive.com/hls/anonymous/RYUorWDIorcX8Jdy-oeiBQ/1706291666/zee_bangla.m3u8
+http://103.163.246.118:8088/ZEE-BANGLA/video.m3u8
 
 #EXTINF:0 tvg-id="01" tvg-name="Sony Aath" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/a15c6418-e6b3-424d-a401-071c2b7a7752/564026c6-1ffd-45b8-8614-c03dc46eabeb.png?width=300" group-title="Entertainment",38. Sony Aath
 #EXTVLCOPT:http-user-agent=iPhone
@@ -158,9 +158,9 @@ https://edge4.bioscopelive.com/hls/anonymous/cgUTzcl6plXOo1DJ-89Rhw/1706291805/l
 #EXTVLCOPT:http-user-agent=iPhone
 https://edge4.bioscopelive.com/hls/anonymous/9W-7LrFLsQgK8qqSgVI7fw/1706291874/live3-colors-bangla-cinema.m3u8
 
-#EXTINF:0 tvg-id="01" tvg-name="Zee Bangla Cinema" tvg-logo="https://banner2.cleanpng.com/20190112/iiu/kisspng-zee-bangla-cinema-logo-zee-cinema-bengali-language-5c3a11e38637c1.7959353315473095395498.jpg" group-title="Entertainment",41. Zee Bangla Cinema
+#EXTINF:0 tvg-id="01" tvg-name="Jalsha Movies" tvg-logo="http://tv.gbnwifi.com/channel-logo/jalshamovies.jpg" group-title="Kids",41. Jalsha Movies
 #EXTVLCOPT:http-user-agent=iPhone
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
+http://103.163.246.118:8088/JALSHA-MOVIE/video.m3u8
 
 #EXTINF:0 tvg-id="01" tvg-name="Sony Sports 1" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/f329b795-ec26-4721-85b6-8c569a9cbf2d/ea6c0a48-2348-456e-8ab2-fd540e6ee5a6.png?width=300" group-title="Sports",42. Sony Sports 1
 #EXTVLCOPT:http-user-agent=iPhone
@@ -186,13 +186,13 @@ https://hls.streambtw.com/live/stream_e1.m3u8
 #EXTVLCOPT:http-user-agent=iPhone
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 
-#EXTINF:0 tvg-id="01" tvg-name="PTV Sports" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/60deaf07-96f9-4d8c-8aee-97975d25e73b_180x180_P-tv.jpg" group-title="Sports",48. PTV Sports
+#EXTINF:0 tvg-id="01" tvg-name="PTV Sports" tvg-logo="http://tv.gbnwifi.com/channel-logo/starsports2.jpg" group-title="Sports",48. Star Sports 2
 #EXTVLCOPT:http-user-agent=iPhone
-https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=47
+http://103.163.246.118:8088/STAR-SP2/video.m3u8
 
 #EXTINF:0 tvg-id="01" tvg-name="T-Sports" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5613629e-48b2-4bf1-918e-f0adc3abc394_180x180_tsports.png" group-title="Sports",49. T-Sports
 #EXTVLCOPT:http-user-agent=iPhone
-https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=28
+http://103.163.246.118:8088/T-SPORTS/video.m3u8
 
 #EXTINF:0 tvg-id="01" tvg-name="Nick Junior" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/565f8459-678d-4495-9aad-364bdc16dc41/01ed5f96-1802-4e11-9335-81eb30f72740.png?width=300" group-title="Kids",50. Nick Junior
 #EXTVLCOPT:http-user-agent=iPhone
@@ -212,7 +212,7 @@ https://edge4.bioscopelive.com/hls/anonymous/0yKlrWIIug1NCRVzNtDq8A/1706328118/l
 
 #EXTINF:0 tvg-id="01" tvg-name="Sangeet Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyzZBJUCX4KZFd8UDihAPyA79QRxrQ2j0NbQ&usqp=CAU" group-title="Music",54. Sangeet Bangla
 #EXTVLCOPT:http-user-agent=iPhone
-http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
+http://103.163.246.118:8088/Sangeet-Bangla/video.m3u8
 
 #EXTINF:0 tvg-id="01" tvg-name="& TV" tvg-logo="https://servicesmedia.in/wp-content/uploads/2023/01/TV.webp" group-title="Entertainment",55. & TV
 #EXTVLCOPT:http-user-agent=iPhone
