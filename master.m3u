@@ -120,7 +120,7 @@ https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 
 #EXTINF:0 tvg-id="01" tvg-name="Duronto" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/155cef49-2209-474b-b882-2618ab44a109_180x180_duronto.png" group-title="Kids",31. Duronto
 #EXTVLCOPT:http-user-agent=iPhone
-https://tv.durbinlive.com/api/ayna/stream.m3u8?id=36&e=.m3u8
+https://babutv.tachbabu.pw/ayna/stream.m3u8?id=36&e=.m3u8
 
 #EXTINF:0 tvg-id="01" tvg-name="Deepto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A7%8D%E0%A6%A4_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B_%E0%A7%A8.jpg" group-title="Entertainment",32. Deepto TV
 #EXTVLCOPT:http-user-agent=iPhone
